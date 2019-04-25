@@ -1,5 +1,6 @@
 Project Smart Mirror
 Group Members: Justin Fischman, Jeff Kelsch, Muskan Sharma
+ 
 Overview - The smart mirror is meant to help people with Obsessive Compulsive Personality Disorder. To do so, the mirror can display        information that a person may use throughout their day. This includes calendar events, news updates, weather and more. The mirror is also connected to Google Assistant to allow the user to ask questions and add calendar events. The goal of this product is to allow someone with OCPD to begin their day without stress as this is the biggest part of having OCPD - being stressed about perfection. 
 
 Phase 1 - During the research stage, everyone in the group looked up what OCPD was and how it affects the people who have it. When we finished researching, we decided on a product which best fit all of the needs of a person with OCPD that we found. These requirements inluded namely an ergonomic design and an aesthetically pleasing look.
