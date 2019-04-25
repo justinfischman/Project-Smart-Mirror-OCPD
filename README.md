@@ -12,4 +12,4 @@ Phase 4 - To test, we turned on the monitor thorugh the mirror and made sure eve
 
 http://www.gregensom.com/mirrorProject.html - This is the link to the video of where we got the idea from to do a smart mirror.
 
-Youtube url - Our Demonstration
+https://youtu.be/b_2kMnibnQ0 - Our Demonstration
